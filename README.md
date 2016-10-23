@@ -1,4 +1,6 @@
+#一、用例图
 ![text](https://github.com/xujianhui1995/mis2/blob/master/1.png)
+#二、用例说明
 <table width="800" border="1">
 <tr>
 	<td>用例名称</td>
