@@ -1,3 +1,4 @@
+![text](https://github.com/xujianhui1995/mis2/blob/master/1.png)
 <table width="800" border="1">
 <tr>
 	<td>用例名称</td>
