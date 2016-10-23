@@ -2,7 +2,7 @@
 <tr>
 	<td>用例名称</td>
 	<td>设备检修</td>
-	<td rowspan="2">用例类型：业务需求						
+	<td rowspan="2" width="100%">用例类型：业务需求						
 	</td>
 </tr>
 <tr>
