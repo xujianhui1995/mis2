@@ -1,4 +1,4 @@
-<table border="1">
+<table width="800" border="1">
 <tr>
 	<td>用例名称</td>
 	<td>设备检修</td>
